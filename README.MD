@@ -1,26 +1,3 @@
-# This project is a systems engineering project involving multiple langauges
-
-# Problem
-* The online job seeking experience has turned into a nightmare for the lone job seeker. This project aims to streamline some overwhelming portions of hunting for your next role. 
-
-# Mission
-* Assist solo job seekers compete in the job market at scale. 
-
-
-# Requirements
-
-* Setup User Portfolio 
-
-* Scrape Job boards for relevant matches in intented field 
-
-* Autonomously Apply to matching jobs 
-
-* Threaded processing for multi-application submittal 
-
-* Track the job application process
-
-* Display meaninful metrics
-
 # Job-Seeker
 
 A polyglot systems engineering project for autonomous job discovery, AI-assisted application generation, and workflow orchestration.
