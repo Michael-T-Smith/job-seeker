@@ -1,0 +1,8 @@
+# Rust Compiler
+/core/scraper/target
+/core/scraper/Cargo.lock
+
+
+# Personal Notes
+Project_Log.md
+
